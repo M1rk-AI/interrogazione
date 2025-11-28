@@ -8,3 +8,5 @@ public int max (int x, int y)
 	   return x;
 	}
 }
+public int pred (int y)
+return x-1
